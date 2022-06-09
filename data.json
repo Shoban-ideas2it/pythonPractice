@@ -1,0 +1,38 @@
+{
+	"emp_details": [
+		"23II",
+		"43TT"
+	],
+    "aadhar_details":[
+         {
+            "uid": 587157202112,
+            "dob": "1990-10-06",
+            "mobile": "9884830198",
+            "gender": "FEMALE",
+            "careof": "S/O Chidambaram",
+            "landmark": "Kanakovilpet",
+            "pincode": "603109",
+            "districtName": "Kancheepuram",
+            "stateName": "Tamil Nadu",
+            "poName": "Tirukalukundram",
+            "name": "Shobana Chidambaram",
+            "biometric": "aaahkjsdsdasfsfakjknknknkrterreyreyeysdfsdf"
+        },
+        {
+            "uid": 587157202114,
+            "dob": "1992-10-06",
+            "mobile": "9884830100",
+            "gender": "MALE",
+            "careof": "S/O Chidambaram",
+            "landmark": "Kanakovilpet",
+            "pincode": "603109",
+            "districtName": "Kancheepuram",
+            "stateName": "Tamil Nadu",
+            "poName": "Tirukalukundram",
+            "name": "Suresh Chidambaram",
+            "biometric": "aaahkjsdsdasfsfakjknknknkrterreyreyeysdfsdf"
+        }
+    
+]
+
+}
